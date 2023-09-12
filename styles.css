@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(0, 0, 0) ;
+    color: rgb(0, 0, 0);
+}
+#a1 {
+    height: 50px;
+    width: 50px;
+    background-color: #ffffff;}
+
+table{
+    border: 1px solid black;
+
+}
+td{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    font-size: 10px;
+    vertical-align: bottom;
+}
