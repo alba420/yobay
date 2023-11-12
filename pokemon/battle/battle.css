@@ -1,0 +1,21 @@
+.pokescelta:hover{
+  background-color: blanchedalmond;
+  border-bottom: 3px solid red;
+  transition: background-color 0.3s ease; 
+  
+}
+.pokescelta{
+  position: fixed;
+}
+.firstchoose1{
+  margin-left: 10%;
+  margin-top: 10%;
+}
+.firstchoose2{
+  margin-top: 30%;
+  margin-left: 10% ;
+}
+.firstchoose3{
+  margin-left: 10% ;
+  margin-top: 50%;
+}
